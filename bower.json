@@ -4,7 +4,8 @@
   "main": "staticmedia-viewer.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
-    "marked-element": "^2.4.0"
+    "marked-element": "^2.4.0",
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
