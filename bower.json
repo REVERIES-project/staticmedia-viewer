@@ -5,6 +5,8 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
     "marked-element": "^2.4.0",
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
